@@ -1,2 +1,2 @@
 # execicios-excecoes
-Exercícios de excessões na linguagem Java
+Exercícios de exceções na linguagem Java
